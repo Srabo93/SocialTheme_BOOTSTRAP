@@ -1,3 +1,3 @@
-# LoopLab-Bootstrap
+# SocialTheme-Bootstrap
 Bootstrap Website
-Web Site erstellt mit Bootstrap 5.0 
+Website with Social Theme  
