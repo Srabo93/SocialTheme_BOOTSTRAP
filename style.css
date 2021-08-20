@@ -8,7 +8,7 @@ body {
   opacity: 0.8;
 }
 #home-section {
-  background: url(../project_images/looplab/home.jpg);
+  background: url(./looplab/home.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
